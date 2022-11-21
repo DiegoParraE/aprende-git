@@ -1,0 +1,2 @@
+cualquier cosa
+git restore text.txt
